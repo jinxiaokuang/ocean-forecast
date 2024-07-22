@@ -18,7 +18,7 @@ https://t4.tianditu.gov.cn/DataServer?T=cva_w&x={x}&y={y}&l={z}&tk=a8479c5bd1fd7
 
 * Data Format
 
-  数据处理后为 `.asc`格式 `wave-2024-07-20T00-00-00.asc`
+数据处理后为 `.asc`格式 `wave-2024-07-20T00-00-00.asc`
 
   ```
   ncols         120
