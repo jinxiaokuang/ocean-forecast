@@ -1,0 +1,1 @@
+{"device": "cuda", "res_dir": "./results", "ex_name": "Debug", "use_gpu": true, "gpu": 0, "seed": 1, "batch_size": 1, "val_batch_size": 1, "data_root": "./data/", "dataname": "weather", "num_workers": 8, "in_shape": [12, 1, 120, 120], "hid_S": 64, "hid_T": 512, "N_S": 4, "N_T": 8, "groups": 4, "epochs": 600, "log_step": 1, "lr": 0.001}

@@ -1,0 +1,47 @@
+{
+  "name": "sea",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.2",
+    "@fortawesome/free-solid-svg-icons": "^6.5.2",
+    "@fortawesome/vue-fontawesome": "^3.0.8",
+    "chroma-js": "^2.4.2",
+    "font-awesome": "^4.7.0",
+    "ih-leaflet-canvaslayer-field": "^1.5.3",
+    "leaflet-simple-map-screenshoter": "^0.5.0",
+    "leaflet-wind": "^1.2.2",
+    "leaflet.bigimage": "^1.0.1",
+    "leaflet.chinatmsproviders": "^3.0.6",
+    "leaflet.locatecontrol": "^0.81.1",
+    "moment": "^2.30.1",
+    "ol": "^9.2.4",
+    "screenfull": "^6.0.2",
+    "vue": "^3.4.29",
+    "vue-time-slider": "^1.0.5"
+  },
+  "devDependencies": {
+    "@types/chroma-js": "^2.4.4",
+    "@types/d3": "^7.4.3",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "chroma": "^0.0.1",
+    "d3": "^6.7.0",
+    "element": "^0.1.4",
+    "element-plus": "^2.7.6",
+    "leaflet": "^1.9.4",
+    "less": "^4.2.0",
+    "pinia": "^2.1.7",
+    "unplugin-auto-import": "^0.17.6",
+    "unplugin-vue-components": "^0.27.2",
+    "vite": "^5.3.1",
+    "vue-d3": "^0.1.0",
+    "vue-router": "^4.4.0"
+  }
+}
