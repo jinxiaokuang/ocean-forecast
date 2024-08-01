@@ -67,12 +67,12 @@ https://t4.tianditu.gov.cn/DataServer?T=cva_w&x={x}&y={y}&l={z}&tk=a8479c5bd1fd7
 
 ```
   frontend
-  运行平台: indows 10
+  运行平台: windows 10
   运行环境：node.js >= v18.15 npm >= 9.5.0
   
   backend
   运行平台: windows 10
-  运行环境: ython >=3.8
+  运行环境: python >=3.8
 ```
 
 ## Usage
