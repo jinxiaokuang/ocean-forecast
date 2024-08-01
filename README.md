@@ -2,7 +2,8 @@
 
 #### Introduction
 
-    本项目依次使用并改进了[U-Net](https://github.com/xuebinqin/U-2-Net)、[ConvLSTM](https://blog.csdn.net/weixin_39753819/article/details/136016677)和[ISAM4VP](https://github.com/seominseok0429/Implicit-Stacked-Autoregressive-Model-for-Video-Prediction)三种算法，在海洋要素预测模块中将其实现。在进行算法预测精度对比后，最终使用ISAM4VP作为主要模型，并分别训练了预测浪高、盐度、海温、海流和海风五种海洋要素的模型。本项目使用[Vue](https://cn.vuejs.org/)和[Flask](https://flask.github.net.cn/)搭建海洋预报系统的前后端，使用D3.js进行海洋预报数据可视化，便于用户交互。实际检验表明，本项目中所使用的算法在多个海洋要素上具有很好的适应性与可扩展性，在长时间预报中达到了很高的精度。
+
+本项目依次使用并改进了[U-Net](https://github.com/xuebinqin/U-2-Net)、[ConvLSTM](https://blog.csdn.net/weixin_39753819/article/details/136016677)和[ISAM4VP](https://github.com/seominseok0429/Implicit-Stacked-Autoregressive-Model-for-Video-Prediction)三种算法，在海洋要素预测模块中将其实现。在进行算法预测精度对比后，最终使用ISAM4VP作为主要模型，并分别训练了预测浪高、盐度、海温、海流和海风五种海洋要素的模型。本项目使用[Vue](https://cn.vuejs.org/)和[Flask](https://flask.github.net.cn/)搭建海洋预报系统的前后端，使用D3.js进行海洋预报数据可视化，便于用户交互。实际检验表明，本项目中所使用的算法在多个海洋要素上具有很好的适应性与可扩展性，在长时间预报中达到了很高的精度。
 
 * Data
 
