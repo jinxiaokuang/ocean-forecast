@@ -32,7 +32,6 @@ https://t4.tianditu.gov.cn/DataServer?T=cva_w&x={x}&y={y}&l={z}&tk=a8479c5bd1fd7
   ```
 * System Architecture
 
-![1721573170374](image/README/1721573170374.png)
 
 * Project Content
 
